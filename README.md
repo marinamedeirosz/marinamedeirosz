@@ -13,6 +13,7 @@
   <img align="center" alt="Mari-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">  
   <img align="center" alt="Mari-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="37" width="40px" alt="vuejs logo"  />
 </div>
 
 ##
@@ -23,6 +24,6 @@
   <a href="https://www.linkedin.com/in/marina-paffer-1a6060255/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-273BFF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/marinamedeirosz/marinamedeirosz/blob/output/github-contribution-grid-snake.svg)
+ # ![Snake animation](https://github.com/marinamedeirosz/marinamedeirosz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
