@@ -22,6 +22,7 @@
 ## 🖥 Backend & APIs
 <div align="center">
   <img align="center" alt="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img align="center" alt="Django" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
   <img align="center" alt="Firebase" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/>
   <img align="center" alt="Supabase" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"/>
   <img align="center" alt="RabbitMQ" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"/>
@@ -42,8 +43,10 @@
 ## 📱 Mobile
 <div align="center">
   <img align="center" alt="React Native" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" alt="Flutter" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
   <img align="center" alt="Expo" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg"/>
   <img align="center" alt="Android Studio" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"/>
+  <img align="center" alt="iOS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"/>
 </div>
 
 <br>
