@@ -24,7 +24,7 @@ outreach project.
 - **Shipping safely**: Docker, tests before every deploy, blue-green releases and Kubernetes.
 
 <details open>
-<summary><h3>Projects</h3></summary>
+<summary><h3>Selected work</h3></summary>
 <br>
 
 <p>
